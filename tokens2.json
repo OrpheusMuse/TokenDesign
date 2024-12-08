@@ -1,5 +1,16 @@
 {
-  "global": {},
+  "global": {
+    "Blue": {
+      "100": {
+        "value": "#8996f6",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4564e7",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
